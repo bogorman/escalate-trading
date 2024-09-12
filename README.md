@@ -40,6 +40,6 @@ Have the ability to allow users to bring their own compute and easily plugin to 
 Akka Cluster + Kubernetes
 Cloudflare. Run scala.js workers in cloudflare.
 
-
+Add AI LLM for the bot generation
 
 
